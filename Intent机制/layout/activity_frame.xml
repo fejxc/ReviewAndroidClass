@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="120pt"
+        android:layout_height="120pt"
+        android:background="#ff0000"
+        ></FrameLayout>
+
+    <FrameLayout
+        android:layout_width="60pt"
+        android:layout_height="60pt"
+        android:background="#000000"
+        ></FrameLayout>
+</FrameLayout>
